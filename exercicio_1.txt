@@ -1,0 +1,23 @@
+1.
+    a)git init inicia um novo repositório.
+    
+    b)git clone copia um repositório ja existente.
+
+    c)git branch lista as branches de um repositório.
+
+    d)git checkout troca de branch ou cria uma nova.
+
+    e)git fetch busca as alterações mais recentes da branch atual.
+
+    f)git pull incluí as alterações do repositório remoto no repositório local.
+
+    g)git add adiciona as alterações nos arquivos do diretório.
+
+    h)git commit empacota as mudanças realizadas no repositório em um commit e adiciona este commit ao log.
+
+    i)git push envia os commits do repositório local ao repositório remoto.
+
+2.
+    O git fetch lista as alterações recentes realizadas na branch atual, ja o git pull incorpora as alterações do repositório remoto para a branch local.
+
+    O git fetch pode fazer isso se seguido de um git merge.
